@@ -6,3 +6,4 @@ Sesiones:
 1. Presentación del Curso - ML vs DL
 2. Regularización de Redes Neuronales Articiales
 3. Fundamentos de Redes Neuronales Convolucionales
+4. Presentación de Propuesta
